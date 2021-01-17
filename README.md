@@ -18,10 +18,10 @@ Trips by Week Day per hour : Next we created a visualization to show trips by we
  ![](Resources/TripsByWeekDayPerHour.PNG)
 
 Trips By Gender: A breakdown of trips by gender show. We can tell from the visuals that high trips are observed more between start and close of office hours. And also more trips since with Male which tells a little that more bikers are male
-![](Resources/ TripsByGender.PNG)
+![](Resources/TripsByGender.PNG)
 
 UserTrips By Gender : Shows the number of bike trips for each type of user and gender for each day of the week
-![](Resources/ UserTripsByGender.PNG)
+![](Resources/UserTripsByGender.PNG)
 Peak Hour : Shows different peak hours in August 
 
 ## Summary
