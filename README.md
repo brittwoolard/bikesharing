@@ -15,7 +15,7 @@ Proportion by User Type:  perecentage of subscribers vs consumers. This shows ov
 
 Trips by Week Day per hour : Next we created a visualization to show trips by weekday for each hour. This chart shows that the most popular time for travel was around 8 am and also 5 and 6 pm. From this we can infer that many people are using this bike sharing program in NYC to commute to work. 
 
- ![](Resources/ TripsByWeekDayPerHour.PNG)
+ ![](Resources/TripsByWeekDayPerHour.PNG)
 
 Trips By Gender: A breakdown of trips by gender show. We can tell from the visuals that high trips are observed more between start and close of office hours. And also more trips since with Male which tells a little that more bikers are male
 ![](Resources/ TripsByGender.PNG)
